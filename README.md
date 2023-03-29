@@ -5,7 +5,6 @@
 - 🌱 No momento estou aprendendo Front End
 - 👯 Adoraria participar de um projeto em grupo
 - 📫 Para me encontrar: Guilhermealbuquerque.go@gmail.com
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Procuro sempre aprimorar conhecimento
 
 <div> <!--Guilherme de Matos Silva-->
