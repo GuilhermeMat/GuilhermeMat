@@ -4,7 +4,7 @@
 - 🔭 Atualmente em busca do nível Full Stack
 - 🌱 No momento estou aprendendo Front End
 - 👯 Adoraria participar de um projeto em grupo
-- 📫 Para me encontrar: Guilhermeaalbuquerque.go@gmail.com
+- 📫 Para me encontrar: Guilhermealbuquerque.go@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Procuro sempre aprimorar conhecimento
 
